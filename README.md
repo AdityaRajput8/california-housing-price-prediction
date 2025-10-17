@@ -17,7 +17,10 @@ The dataset used is the California Housing dataset, which is based on data from 
 File: data/housing.csv
 
 Project Structure
+
 california-housing-prediction/
+
+
 ├── data/
 │   ├── housing.csv         # Raw training data
 │   └── input.csv           # Sample data for prediction
